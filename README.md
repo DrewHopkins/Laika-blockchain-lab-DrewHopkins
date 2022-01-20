@@ -1,2 +1,5 @@
 # Laika-blockchain-lab-DrewHopkins
-I will follow the instructions in the outline and provide some useful feedback as student who is just starting to get into blockchain development.
+interact with the laika blackchain lab and give feedback.
+The laika blackchain hopes to create a ui for smart contract dev without coding
+
+Feedback link: https://laika.hellonext.co/b/feedback/p/laika-blockchain-lab-feedback-anh-nt4288
